@@ -112,3 +112,6 @@ The four plots that you will need to construct are shown below.
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
+## Instructions to run the scripts:
+
+The scripts assume that the data file is placed in the current working directory. Simply source the scripts in R and see the magic work.
